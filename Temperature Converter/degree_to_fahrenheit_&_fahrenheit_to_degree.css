@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: whitesmoke;
+
+}
+.Celsius{
+    background-color: lightblue;
+    align-items: center;
+    display: flex;
+    justify-content:center ;
+    min-height: 100vh;
+
+}
+p{
+    padding: 0px 12px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+input{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: aqua;
+}
+input:hover{
+    color:red;
+}
